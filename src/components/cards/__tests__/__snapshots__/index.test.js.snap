@@ -1,0 +1,1210 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card should render 1`] = `
+<DocumentFragment>
+  <div
+    class="padding"
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://static.wixstatic.com/media/178772d8bf024ceaa9dbf60aa317862c.jpg/v1/fill/w_1480,h_1208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/178772d8bf024ceaa9dbf60aa317862c.jpg"
+          src="https://static.wixstatic.com/media/178772d8bf024ceaa9dbf60aa317862c.jpg/v1/fill/w_1480,h_1208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/178772d8bf024ceaa9dbf60aa317862c.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h>
+               2nd Januray, 2018 
+            </h>
+            <h>
+               2 mins 
+            </h>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h>
+               The future of abstract art and the culture ... 
+            </h>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h>
+                   10 
+                </h>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://static.wixstatic.com/media/32d2d243df3a90d11ebc9a3c713530b2.jpg/v1/fill/w_859,h_979,al_c,q_85,enc_auto/32d2d243df3a90d11ebc9a3c713530b2.jpg"
+          src="https://static.wixstatic.com/media/32d2d243df3a90d11ebc9a3c713530b2.jpg/v1/fill/w_859,h_979,al_c,q_85,enc_auto/32d2d243df3a90d11ebc9a3c713530b2.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h>
+               31st Januray, 2018 
+            </h>
+            <h>
+               1 min 
+            </h>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h>
+               How painting outdoors can transform your  
+            </h>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h>
+                   1 
+                </h>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://gloryartgallery.files.wordpress.com/2014/12/aliaa-13.jpg"
+          src="https://gloryartgallery.files.wordpress.com/2014/12/aliaa-13.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h>
+               20th March, 2018 
+            </h>
+            <h>
+               2 mins 
+            </h>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h>
+               10 young painters you need to know 
+            </h>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h>
+                   15 
+                </h>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://www.animeignite.com/wp-content/uploads/2018/11/20181018_045922000_iOS-694x675.jpg"
+          src="https://www.animeignite.com/wp-content/uploads/2018/11/20181018_045922000_iOS-694x675.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h>
+               22nd June, 2018 
+            </h>
+            <h>
+               5 mins 
+            </h>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h>
+               Tips for creating the perfect art 
+            </h>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h>
+                   11 
+                </h>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://developer-blogs.nvidia.com/wp-content/uploads/2022/01/AdobeStock_327477069.jpeg"
+          src="https://developer-blogs.nvidia.com/wp-content/uploads/2022/01/AdobeStock_327477069.jpeg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h>
+               4th Feburary, 2019 
+            </h>
+            <h>
+               9 mins 
+            </h>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h>
+               Stay inspired: top artists blog ... 
+            </h>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h>
+                   45 
+                </h>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://static.wixstatic.com/media/31ade2aaec34237fc4467c3cf7d6e053.jpg/v1/fill/w_695,h_695,al_c,q_85,enc_auto/31ade2aaec34237fc4467c3cf7d6e053.jpg"
+          src="https://static.wixstatic.com/media/31ade2aaec34237fc4467c3cf7d6e053.jpg/v1/fill/w_695,h_695,al_c,q_85,enc_auto/31ade2aaec34237fc4467c3cf7d6e053.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h>
+               10th Januray, 2019 
+            </h>
+            <h>
+               2 mins 
+            </h>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h>
+               5 reasons why everyone should try an... 
+            </h>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h>
+                   11 
+                </h>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Card should render the same snapshot when called 1`] = `
+<DocumentFragment>
+  <div
+    class="padding"
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://static.wixstatic.com/media/178772d8bf024ceaa9dbf60aa317862c.jpg/v1/fill/w_1480,h_1208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/178772d8bf024ceaa9dbf60aa317862c.jpg"
+          src="https://static.wixstatic.com/media/178772d8bf024ceaa9dbf60aa317862c.jpg/v1/fill/w_1480,h_1208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/178772d8bf024ceaa9dbf60aa317862c.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h>
+               2nd Januray, 2018 
+            </h>
+            <h>
+               2 mins 
+            </h>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h>
+               The future of abstract art and the culture ... 
+            </h>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h>
+                   10 
+                </h>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://static.wixstatic.com/media/32d2d243df3a90d11ebc9a3c713530b2.jpg/v1/fill/w_859,h_979,al_c,q_85,enc_auto/32d2d243df3a90d11ebc9a3c713530b2.jpg"
+          src="https://static.wixstatic.com/media/32d2d243df3a90d11ebc9a3c713530b2.jpg/v1/fill/w_859,h_979,al_c,q_85,enc_auto/32d2d243df3a90d11ebc9a3c713530b2.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h>
+               31st Januray, 2018 
+            </h>
+            <h>
+               1 min 
+            </h>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h>
+               How painting outdoors can transform your  
+            </h>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h>
+                   1 
+                </h>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://gloryartgallery.files.wordpress.com/2014/12/aliaa-13.jpg"
+          src="https://gloryartgallery.files.wordpress.com/2014/12/aliaa-13.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h>
+               20th March, 2018 
+            </h>
+            <h>
+               2 mins 
+            </h>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h>
+               10 young painters you need to know 
+            </h>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h>
+                   15 
+                </h>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://www.animeignite.com/wp-content/uploads/2018/11/20181018_045922000_iOS-694x675.jpg"
+          src="https://www.animeignite.com/wp-content/uploads/2018/11/20181018_045922000_iOS-694x675.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h>
+               22nd June, 2018 
+            </h>
+            <h>
+               5 mins 
+            </h>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h>
+               Tips for creating the perfect art 
+            </h>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h>
+                   11 
+                </h>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://developer-blogs.nvidia.com/wp-content/uploads/2022/01/AdobeStock_327477069.jpeg"
+          src="https://developer-blogs.nvidia.com/wp-content/uploads/2022/01/AdobeStock_327477069.jpeg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h>
+               4th Feburary, 2019 
+            </h>
+            <h>
+               9 mins 
+            </h>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h>
+               Stay inspired: top artists blog ... 
+            </h>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h>
+                   45 
+                </h>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://static.wixstatic.com/media/31ade2aaec34237fc4467c3cf7d6e053.jpg/v1/fill/w_695,h_695,al_c,q_85,enc_auto/31ade2aaec34237fc4467c3cf7d6e053.jpg"
+          src="https://static.wixstatic.com/media/31ade2aaec34237fc4467c3cf7d6e053.jpg/v1/fill/w_695,h_695,al_c,q_85,enc_auto/31ade2aaec34237fc4467c3cf7d6e053.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h>
+               10th Januray, 2019 
+            </h>
+            <h>
+               2 mins 
+            </h>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h>
+               5 reasons why everyone should try an... 
+            </h>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h>
+                   11 
+                </h>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Card should render the same snapshot when it is called 1`] = `
+<DocumentFragment>
+  <div
+    class="padding"
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://static.wixstatic.com/media/178772d8bf024ceaa9dbf60aa317862c.jpg/v1/fill/w_1480,h_1208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/178772d8bf024ceaa9dbf60aa317862c.jpg"
+          src="https://static.wixstatic.com/media/178772d8bf024ceaa9dbf60aa317862c.jpg/v1/fill/w_1480,h_1208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/178772d8bf024ceaa9dbf60aa317862c.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h4>
+               2nd Januray, 2018 
+            </h4>
+            <h4>
+               2 mins 
+            </h4>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h4>
+               The future of abstract art and the culture ... 
+            </h4>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h4>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h4>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h4>
+                   10 
+                </h4>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://static.wixstatic.com/media/32d2d243df3a90d11ebc9a3c713530b2.jpg/v1/fill/w_859,h_979,al_c,q_85,enc_auto/32d2d243df3a90d11ebc9a3c713530b2.jpg"
+          src="https://static.wixstatic.com/media/32d2d243df3a90d11ebc9a3c713530b2.jpg/v1/fill/w_859,h_979,al_c,q_85,enc_auto/32d2d243df3a90d11ebc9a3c713530b2.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h4>
+               31st Januray, 2018 
+            </h4>
+            <h4>
+               1 min 
+            </h4>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h4>
+               How painting outdoors can transform your  
+            </h4>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h4>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h4>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h4>
+                   1 
+                </h4>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://gloryartgallery.files.wordpress.com/2014/12/aliaa-13.jpg"
+          src="https://gloryartgallery.files.wordpress.com/2014/12/aliaa-13.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h4>
+               20th March, 2018 
+            </h4>
+            <h4>
+               2 mins 
+            </h4>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h4>
+               10 young painters you need to know 
+            </h4>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h4>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h4>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h4>
+                   15 
+                </h4>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://www.animeignite.com/wp-content/uploads/2018/11/20181018_045922000_iOS-694x675.jpg"
+          src="https://www.animeignite.com/wp-content/uploads/2018/11/20181018_045922000_iOS-694x675.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h4>
+               22nd June, 2018 
+            </h4>
+            <h4>
+               5 mins 
+            </h4>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h4>
+               Tips for creating the perfect art 
+            </h4>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h4>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h4>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h4>
+                   11 
+                </h4>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://developer-blogs.nvidia.com/wp-content/uploads/2022/01/AdobeStock_327477069.jpeg"
+          src="https://developer-blogs.nvidia.com/wp-content/uploads/2022/01/AdobeStock_327477069.jpeg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h4>
+               4th Feburary, 2019 
+            </h4>
+            <h4>
+               9 mins 
+            </h4>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h4>
+               Stay inspired: top artists blog ... 
+            </h4>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h4>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h4>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h4>
+                   45 
+                </h4>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="card-layout"
+      >
+        <img
+          alt="https://static.wixstatic.com/media/31ade2aaec34237fc4467c3cf7d6e053.jpg/v1/fill/w_695,h_695,al_c,q_85,enc_auto/31ade2aaec34237fc4467c3cf7d6e053.jpg"
+          src="https://static.wixstatic.com/media/31ade2aaec34237fc4467c3cf7d6e053.jpg/v1/fill/w_695,h_695,al_c,q_85,enc_auto/31ade2aaec34237fc4467c3cf7d6e053.jpg"
+        />
+        <div
+          class="container"
+        >
+          <div
+            class="date-time"
+          >
+            <h4>
+               10th Januray, 2019 
+            </h4>
+            <h4>
+               2 mins 
+            </h4>
+          </div>
+          <div
+            class="content-head"
+          >
+            <h4>
+               5 reasons why everyone should try an... 
+            </h4>
+          </div>
+          <div
+            class="content-body"
+          >
+            <h4>
+               Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your... 
+            </h4>
+          </div>
+          <div>
+            <hr />
+            <div
+              class="card-footer"
+            >
+              <div
+                class="clap"
+              >
+                <img
+                  alt="clap"
+                  class="icons"
+                  src="clapping.svg"
+                  style="opacity: 0.25;"
+                />
+                <h4>
+                   11 
+                </h4>
+              </div>
+              <div
+                class="like"
+              >
+                <img
+                  alt="like"
+                  class="icons like"
+                  src="heart-black.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

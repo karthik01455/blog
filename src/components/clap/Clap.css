@@ -1,0 +1,18 @@
+button{
+    padding: 3px;
+    border: none;
+    background-color: transparent;
+}
+.clap{
+    display: flex;
+    flex-direction: row;
+}
+.clap>h{
+    font-size: 15px;
+    padding: 5px;
+    padding-top: 7px;
+}
+h5{
+    margin-top: 0;
+    margin-bottom: 0;
+}

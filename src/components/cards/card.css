@@ -1,0 +1,64 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    row-gap: 25px;
+    column-gap: 100px;
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+img {
+    width: 100%;
+    max-width: 100%;
+    height: 250px;
+}
+.card-layout {
+    width: 300px;
+    border: solid rgb(82, 72, 72) 1px;
+}
+.date-time {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 10px;
+    color: rgb(125, 125, 125);
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+.content-head {
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    inline-size: inherit;
+    overflow-wrap: break-word;
+}
+.icons {
+    padding: 6px;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-self: flex-end;
+}
+.content-body {
+    font-size: 15px;
+    inline-size: inherit;
+    overflow-wrap: break-word;
+    color: rgb(100, 100, 100);
+}
+.card-footer {
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between;
+}
+.blogDataError {
+    height: 77vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+}

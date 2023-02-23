@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar should render the same snapshot when it is called 1`] = `
+<DocumentFragment>
+  <div
+    class="nav"
+  >
+    <ul>
+      <li>
+        Blog
+      </li>
+      <li>
+        About
+      </li>
+      <li>
+        Contact
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;

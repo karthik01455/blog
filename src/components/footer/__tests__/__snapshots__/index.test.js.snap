@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer should render the same snapshot when it is called 1`] = `
+<DocumentFragment>
+  <div
+    class="footer padding"
+  >
+    <p>
+      ©arifact.com 2019
+    </p>
+  </div>
+</DocumentFragment>
+`;

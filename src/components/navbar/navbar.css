@@ -1,0 +1,25 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    background-color: #000;
+    color:aliceblue;
+    justify-content: right;
+    width: 100%;
+    padding-bottom: 10px;
+
+  }
+  ul {
+    list-style-type: none;
+    display: flex;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: aliceblue;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: flex-end;
+    column-gap: 75px;
+    row-gap: 5px;
+  }
+  li{
+    color: aliceblue;
+  }
